@@ -1,2 +1,2 @@
 # Activity: Restaurant Menu
-# Practice making a resturnat meue wth a navigation bar, tables, lists, and more. 
+Practice making a restaurant menu with a navigation bar, tables, lists, and more.
